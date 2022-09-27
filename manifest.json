@@ -1,0 +1,9 @@
+{
+    "icon": "assets/Synthwave-CoverPhoto.png",
+    "name": "Synthwave '84",
+    "version": "1.0.2",
+    "author": "CelestialReaver",
+    "description": "A clean retro theme that provides the perfect glow and vibe to your Discord.",
+    "license": "MIT",
+    "theme": "Synthwave84.theme.css"
+}
